@@ -1,4 +1,24 @@
-data
-.venv
+# Virtual environment
+.venv/
 
-03-model-training.ipynb
+# Dataset
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Personal notes
+learnings.md
+
+#model - version 1
+models/brain_tumor_cnn_v1.keras
