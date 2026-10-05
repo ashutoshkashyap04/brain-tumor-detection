@@ -17,8 +17,7 @@ __pycache__/
 # Environment variables
 .env
 
-# Personal notes
-learnings.md
+
 
 #model - version 1
 models/brain_tumor_cnn_v1.keras
